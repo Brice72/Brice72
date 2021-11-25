@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Brice72 (Brice Cauchon)
+- 👀 I’m interested in Computer Science and Data Science
+- 🌱 I’m currently learning how to use my knowledge in computer science to work with big data
+- 📫 You can reach me by mail: brice.cauchon.1@ulaval.ca
